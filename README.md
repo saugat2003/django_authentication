@@ -1,4 +1,4 @@
-# Django Authentication System  
+# Django Authentication System.
 
 This is a simple system for user sign-up, login, and logout using Django.  
 
